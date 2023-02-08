@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANAS-TAAHIR
-- 👀 I’m interested in Finanace Analysis , Machine Learning & Artifical Intelligence
+- 👀 I’m interested in Machine Learning & Artifical Intelligence
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on Data Analysis and Buisness Insights
 - 📫 How to reach me https://www.linkedin.com/in/anas-tahir-9a5b78214

@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning , Artifical Intelligence & Mobile Application Development
 - 🌱 I’m currently learning Data Science & Flutter
 - 💞️ I’m looking to collaborate on Data Analysis , Buisness Insights & Flutter App Development
-- 📫 How to reach me https://www.linkedin.com/in/anas-tahir-9a5b78214
+- 📫 How to reach me : https://www.linkedin.com/in/anas-waleed-tahir-9a5b78214

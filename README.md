@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANAS-TAAHIR
-- 👀 I’m interested in Machine Learning & Artifical Intelligence
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data Analysis and Buisness Insights
+- 👀 I’m interested in Machine Learning , Artifical Intelligence & Mobile Application Development
+- 🌱 I’m currently learning Data Science & Flutter
+- 💞️ I’m looking to collaborate on Data Analysis , Buisness Insights & Flutter App Development
 - 📫 How to reach me https://www.linkedin.com/in/anas-tahir-9a5b78214

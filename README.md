@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering<br>👯 I’m looking to collaborate on Python & SQL<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Artificial Intelleigence & Latest Tech<br>⚡ Fun fact Machine Learning is purly Mathematics
+🔭 I’m currently studying Data Science<br>👯 I’m looking to collaborate on Python & SQL<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Artificial Intelleigence & Latest Tech<br>⚡ Fun fact Machine Learning is purly Mathematics
 
 
 ## 🌐 Socials

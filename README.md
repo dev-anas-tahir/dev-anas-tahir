@@ -2,7 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently studying Data Science<br>👯 I’m looking to collaborate on Python & SQL<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Artificial Intelleigence & Latest Tech<br>⚡ Fun fact Machine Learning is purly Mathematics
 
-
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anas.tahir.70.hero) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anasengence/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-waleed-tahir-9a5b78214/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]((https://twitter.com/anastaahir))
 

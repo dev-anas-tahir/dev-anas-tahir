@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 # 💫 About Me:
-🔭 I’m currently studying Data Science<br>👯 I’m looking to collaborate on Python, SQL and MLOPs<br>🤝 I’m looking for help with Machine Learning / MLOPs<br>🌱 I’m currently learning Machine Learning / MLOPs<br>💬 Ask me about Artificial Intelleigence & Latest Tech<br>⚡ Fun fact Machine Learning is purly Mathematics
+🔭 I’m a Data Scientist<br>👯 I’m looking to collaborate on Python, SQL and MLOPs<br>🤝 I’m looking for help with Machine Learning / MLOPs<br>🌱 I’m currently learning Machine Learning / MLOPs<br>💬 Ask me about Artificial Intelleigence & Latest Tech<br>⚡ Fun fact Machine Learning is purly Mathematics
 
 
 ## 🌐 Socials:
